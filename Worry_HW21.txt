@@ -1,0 +1,27 @@
+*/
+Project Name: Hands-On Exercises 6.4-6.7
+Author: Megan Worry 
+Date Last Modified: April 25, 2019
+/*
+
+1. p {
+	background-color: lightgreen;
+}
+p.padding {
+	padding-top: 100px;
+	padding-right: 100px;
+	 position: relative;
+	left: 15px;
+}
+
+2. #id {
+	position: fixed;
+	background-color: #E6E6E6;
+	font-weight: bold;
+	padding: 10px;
+}
+
+3. ul ( List-style-type: myimage.gif;}
+
+4. ul { list-style-type: square;}
+	
