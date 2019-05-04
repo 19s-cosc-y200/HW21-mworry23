@@ -4,24 +4,20 @@ Author: Megan Worry
 Date Last Modified: April 25, 2019
 /*
 
-1. p {
-	background-color: lightgreen;
-}
-p.padding {
-	padding-top: 100px;
-	padding-right: 100px;
-	 position: relative;
+1. .questionone {
+	background-color: #90EE90;
+	position: relative;
 	left: 15px;
 }
 
-2. #id {
+2. #questiontwo {
 	position: fixed;
 	background-color: #E6E6E6;
 	font-weight: bold;
 	padding: 10px;
 }
 
-3. ul ( List-style-type: myimage.gif;}
+3. ul ( list-style-image: url(myimage.gif);}
 
 4. ul { list-style-type: square;}
 	
